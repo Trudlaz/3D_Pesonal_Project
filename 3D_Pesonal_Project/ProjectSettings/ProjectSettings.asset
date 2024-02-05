@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: b32c8764e14316d428939f29f077a728
+  productGUID: 785274c58d8d91d4ba4bf4000f55b85c
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: 3D_Pesonal_Project
+  productName: 3D_Pesonal_Project_
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -673,14 +673,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: 3D_Pesonal_Project
+  metroPackageName: 3D_Pesonal_Project_
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: 3D_Pesonal_Project
+  metroApplicationDescription: 3D_Pesonal_Project_
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -747,12 +747,12 @@ PlayerSettings:
   hmiLogStartupTiming: 0
   hmiCpuConfiguration: 
   apiCompatibilityLevel: 6
-  activeInputHandler: 0
+  activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: 99b9deaf-3eed-484b-9564-eb7742dc0b9f
+  cloudProjectId: 8132ac8f-bbd7-4271-9db6-dc71afabacfa
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 3D_Pesonal_Project
+  projectName: 3D_Pesonal_Project_
   organizationId: trudlaz
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
